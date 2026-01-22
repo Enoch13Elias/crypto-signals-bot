@@ -1,0 +1,20 @@
+# Secrets (NEVER commit these!)
+.env
+config.json
+secrets.json
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+
+# Logs
+*.log
+logs/
+
+# System
+.DS_Store
+Thumbs.db
